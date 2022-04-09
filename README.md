@@ -23,7 +23,11 @@ You can click the Preview link to take a look at your changes.
 
 <h3>Social</h3>
 <div>
-  <a href="" target="blank">
-    <img height="40em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/carlosvinicios.lg/" target="blank">
+    <img height="30em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://www.linkedin.com/in/carlos-vin%C3%ADcios-lima/" target="blank">
+    <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
 </div>  
