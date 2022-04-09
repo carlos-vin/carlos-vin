@@ -20,3 +20,10 @@ You can click the Preview link to take a look at your changes.
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </div>
+
+<h3>Social</h3>
+<div>
+  <a href="" target="blank">
+    <img height="40em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>  
