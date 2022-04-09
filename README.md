@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <a href="https://github.com/carlos-vin/">
 <div style="display:flex;">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=carlos-vin&show_icons=true&theme=darcula"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-vin&show_icons=true&langs_count=16&layout=compact&theme=darcula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=carlos-vin&show_icons=true&theme=darcula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-vin&show_icons=true&langs_count=16&layout=compact&theme=darcula"/>
 </div>
 </a>
