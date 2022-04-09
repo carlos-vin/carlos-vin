@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlos-vin&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-vin"/>
