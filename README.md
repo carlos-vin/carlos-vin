@@ -1,4 +1,4 @@
-<h1>Seja Bem Vindo, eu sou o <span style="color:#7C1AF8">Carlos Vinícios</span></h1>
+<h1>Seja Bem Vindo, eu sou o <span style="color:#7C1AF8;">Carlos Vinícios</span></h1>
 
 <!---
 carlos-vin/carlos-vin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
