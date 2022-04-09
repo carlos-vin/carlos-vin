@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Carlos Vinícios
-- 👀 I’m interested in always to learn 
-- 🌱 I’m currently learning HTML,CSS,JS,React Js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? Instagram:@carlosvinicios.lg
+<h1>Seja Bem Vindo, eu sou o <span style="color:#7C1AF8">Carlos Vinícios</span></h1>
 
 <!---
 carlos-vin/carlos-vin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
