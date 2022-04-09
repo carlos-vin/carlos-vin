@@ -1,4 +1,4 @@
-<h1>Seja Bem Vindo, eu sou o <span style="color:#7C1AF8;">Carlos Vinícios</span></h1>
+<h1>Seja Bem Vindo, eu sou o <span style="text-color:#7C1AF8;">Carlos Vinícios</span></h1>
 
 <!---
 carlos-vin/carlos-vin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   </div>
 </a>
 
-<h3>Technologies</h3>
+<h2>Technologies</h2>
 <div >
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
